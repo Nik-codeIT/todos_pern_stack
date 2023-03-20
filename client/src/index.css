@@ -1,0 +1,22 @@
+body {
+  margin: 0 auto;
+  background-color: rgb(81, 81, 255);
+  color: antiquewhite;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.head {
+  color: rgb(59, 53, 53);
+}
+
+.desc {
+  color: antiquewhite;
+}
+
+.edit {
+  color: #f0ad4e;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
